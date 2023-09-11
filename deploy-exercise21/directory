@@ -1,0 +1,12 @@
+[defaults]
+inventory = ./inventory
+
+[myself]
+localhost
+
+[intranetweb]
+node1.example.com
+
+[everyone:children]
+myself
+intranetweb
