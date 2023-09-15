@@ -1,0 +1,5 @@
+[controlnode]
+localhost
+
+[intranetweb]
+node1.example.com

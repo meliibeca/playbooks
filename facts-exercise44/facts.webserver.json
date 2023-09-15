@@ -1,0 +1,10 @@
+vm-8-node1-ansible.example.com | UNREACHABLE! => {
+    "changed": false,
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname vm-8-node1-ansible.example.com: Name or service not known",
+    "unreachable": true
+}
+vm-8-node2-ansible.example.com | UNREACHABLE! => {
+    "changed": false,
+    "msg": "Failed to connect to the host via ssh: ssh: Could not resolve hostname vm-8-node2-ansible.example.com: Name or service not known",
+    "unreachable": true
+}
